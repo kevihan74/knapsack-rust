@@ -1,0 +1,1 @@
+Knapsack password manager written in "memory safe" rust. This program is used to generate 12 random characters (3 numbers, 3 upper case and 3 lower case letters, and 3 special characters) and store them in a sqllite database file. 

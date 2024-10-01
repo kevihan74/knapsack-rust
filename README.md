@@ -2,12 +2,12 @@ Knapsack password manager written in "memory safe" rust. This program is used to
 
 First install rust https://www.rust-lang.org/tools/install
 
-Then go to the directory where you want your program to resied and type cargo new knapsack
+Then go to the directory where you want your program to resied and type '''cargo new knapsack'''
 
 Then copy main.rs into the src folder and overwrite the one cargo created for you.
 
 Copy the knapsack.toml file from git ovet the one cargo created for you and add the knapsack.png image to the folder
 
-Type cargo run
+Type '''cargo run'''
 
 Enjoy!
